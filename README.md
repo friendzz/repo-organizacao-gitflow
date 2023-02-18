@@ -4,9 +4,9 @@ Aqui estão algumas regras e boas práticas para termos um fluxo de branchs e ch
 
 ## Fluxo de trabalho Git 
 Atualmente o projeto tem como base o Trunk based development. Por isso temos poucas branchs envolvidas no fluxo:
-- **main** - Branch protegida e é a que contém o código fonte que está rodando em ambiente produtivo
-- **develop** - Branch que contém código fonte que está rodando em ambiente de teste. Assim que a homologação nesse ambiente é feita, é a partir dela que devemos ir para main
-- **feature/nome-da-funcionalidade** - Branch criada a partir da main e é onde a pessoa desenvolvedora codifica seus códigos :)
+- **main** - Branch protegida e a que contém o código fonte do ambiente produtivo
+- **develop** - Branch que contém código fonte do ambiente de teste. Assim que a homologação nesse ambiente for feita, é a partir dela que devemos ir para main
+- **feature/nome-da-funcionalidade** - Branch criada a partir da main e é onde a pessoa desenvolvedora codifica suas alterações :)
 
 ![alt text](/docs/flow-pegavisao.png "Fluxo de trabalho do Pegavisao.org")
 
