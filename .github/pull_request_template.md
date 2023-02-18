@@ -1,9 +1,4 @@
-## Informações do Pull Request
-
-### Deseja habilitar deploy em Produção?
-Selecione apenas se você deseja deployar a **develop** em ambiente produtivo quando ela for mergeada para **main**
-- [ ] Habilitar deploy em Produção
-
+## Está indo para produção? Por favor preencha as informações abaixo:
 ### Selecione o tipo de mudança que está neste PR:
 Deixe selecionado apenas **1**, a principal mudança deste PR, já que podem haver várias
 - [ ] **Bugfix** - _correções em funcionalidades, estilo_
