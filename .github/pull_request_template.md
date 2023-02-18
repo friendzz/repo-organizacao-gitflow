@@ -1,16 +1,17 @@
 ## Tipo de Pull request
 
-### Selecione o tipo de mudança (principal, já pode haver mais de uma) que está neste PR:
-- [] Bugfix - correções em funcionalidades, estilo
-- [] Feature - adição de novas funcionaliades
-- [] Documentation - adições/atualizações nas documentações dos projetos
-- [] Other (please describe): 
+### Selecione o tipo de mudança que está neste PR:
+Selecione apenas **1**, a principal mudança deste PR, já que podem haver várias
+- [ ] Bugfix - _correções em funcionalidades, estilo_
+- [ ] Feature - _adição de novas funcionaliades_
+- [ ] Documentation - _adições/atualizações nas documentações dos projetos_
+- [ ] Other - _sem classificação_
 
-### Comente com título e descrição do que se trata esse PR:
+### Comente sobre as mudanças implementadas nesse PR:
 
 Título:
 
 Descrição:
 
-### Existe referência com alguma issue? Se sim, coloque abaixo:
-Issue URL:
+### (_Opicional_) Existe referência com alguma issue?
+Issue URL: [coloque_url_issue]
