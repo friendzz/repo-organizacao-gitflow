@@ -12,24 +12,24 @@ Atualmente o projeto tem como base o Trunk based development. Por isso temos pou
 
 
 ## Começando a contruibir
-Quando for começar a codificar, você deve fazer o clone do projeto e criar sua branch a partir da Main, é ela que possui o código produtivo em pleno funcionamento. 
+Quando for começar a codificar, você deve fazer o clone do projeto e criar sua branch a partir da **main**, é ela que possui o código produtivo em pleno funcionamento. 
 
-Alguns nomes para sua feature branchs são aceitos desde que sejam claros:
+Alguns nomes para sua feature branchs são aceitos desde que sejam claros e sigam os padrões abaixo:
 - **feat**/nome-da-minha-mudanca
 - **feature**/nome-da-minha-mudanca
 - **bugfix**/nome-da-correcao-bug
 - **hotfix**/deu-ruim-em-producao
 
-**feat** e **feature** são branchs que possuem adições de códigos/funcionalidades e pequenas melhorias.
+**feat** e **feature** são branchs que possuem adições de códigos/funcionalidades, melhorias, refatorações, upgrade de librarys e etc.
 
-**bufgix** é uma branch específica para correções de bugs em códigos/funcionalidades que já existem
+**bufgix** é uma branch específica para correções de bugs em códigos/funcionalidades existentes.
 
-**hotfix** é uma branch espefícia para correções urgentes que vão direto para ambiente protudivo afim de normalizar o funcionamento de aplicação 
+**hotfix** é uma branch espefícia para correções urgentes que vão direto para ambiente produtivo afim de normalizar o funcionamento de aplicação o quanto antes.
 
-Use sempre o kebab-case, este é o padrão adotado desde 18/02/2023.
+Use sempre o kebab-case pois este é o padrão adotado desde 18/02/2023.
 
 ## Merge Pull Request
-Atualmente o projeto possui um template para ajudar na identificação das changes. Esse preenchimento é obrigatório apenas para PRs que tiverem a main como destino. 
+Atualmente o projeto possui um template para ajudar na identificação das changes. Esse preenchimento é obrigatório apenas para PRs que tiverem a **main** como destino. 
 
 Esse tipo de informação vai ajudar a todo mundo a identificar o que está indo para ambiente produtivo.
 
