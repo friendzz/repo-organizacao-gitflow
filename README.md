@@ -34,3 +34,8 @@ Atualmente o projeto possui um template para ajudar na identificação das chang
 Esse tipo de informação vai ajudar a todo mundo a identificar o que está indo para ambiente produtivo.
 
 Caso você esteja apenas abrindo PR para develop, você pode ignorar.
+
+## Referência
+
+ - [Trunk based development](https://trunkbaseddevelopment.com/.)
+ - [kebab-case](https://betterprogramming.pub/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841)
