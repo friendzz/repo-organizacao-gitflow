@@ -2,7 +2,7 @@
 
 Aqui estão algumas regras e boas práticas para termos um fluxo de branchs e changes dentro do projeto
 
-## Gitflow 
+## Fluxo de trabalho Git 
 Atualmente o projeto tem como base o Trunk based development. Por isso temos poucas branchs envolvidas no fluxo:
 - **main** - Branch protegida e é a que contém o código fonte que está rodando em ambiente produtivo
 - **develop** - Branch que contém código fonte que está rodando em ambiente de teste. Assim que a homologação nesse ambiente é feita, é a partir dela que devemos ir para main
