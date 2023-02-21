@@ -19,21 +19,21 @@ Com as ferramentas instaladas você deve criar 3 recursos antes de levantar a ap
 
 Com docker, crie uma network: *docker network create nginx_nw*
 ```cmd
-C:\Users\luis\VisionBack>docker network create nginx_nw
+C:\Users\dev\VisionBack>docker network create nginx_nw
 ```
 
 Com docker, crie dois volumes: docker volume create nome_volume
 ```cmd
-C:\Users\luis\VisionBack>docker volume create static
+C:\Users\dev\VisionBack>docker volume create static
 ```
 ```cmd
-C:\Users\luis\VisionBack>docker volume create docs
+C:\Users\dev\VisionBack>docker volume create docs
 ```
 
 Feito os pré requisitos basta rodar o comando: docker compose up
 
 ```cmd
-C:\Users\luis\favela_inc\VisionBack>docker compose up
+C:\Users\dev\favela_inc\VisionBack>docker compose up
 ```
 Resultado esperado: 
 ```cmd
