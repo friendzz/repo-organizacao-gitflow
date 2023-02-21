@@ -18,8 +18,11 @@ Como rodar o projeto:
 Com as ferramentas instaladas você deve criar 3 recursos antes de levantar a aplicação em ambiente local
 
 Com docker, crie uma network: *docker network create nginx_nw*
-```sh
+```cmd
 C:\Users\luis\VisionBack>docker network create nginx_nw
+```
+```cmd
+042d8c5672d9943b7ace048d16b34c4eb33a288eac0447872953638879a365e3
 ```
  
 
@@ -27,9 +30,15 @@ Com docker, crie dois volumes: docker volume create nome_volume
 ```cmd
 C:\Users\luis\VisionBack>docker volume create static
 ```
+```cmd
+static
+```
 
 ```cmd
 C:\Users\luis\VisionBack>docker volume create docs
+```
+```cmd
+docs
 ```
 
 Feito os pré requisitos basta rodar o comando: docker compose up
