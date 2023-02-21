@@ -31,7 +31,7 @@ C:\Users\dev\VisionBack>docker volume create static
 C:\Users\dev\VisionBack>docker volume create docs
 ```
 
-Feito os pré requisitos basta rodar o comando: docker compose up
+Feito os pré requisitos basta executar o comando: docker compose up
 
 ```cmd
 C:\Users\dev\favela_inc\VisionBack>docker compose up
