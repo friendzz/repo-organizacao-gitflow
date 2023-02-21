@@ -14,7 +14,8 @@ Instale as seguintes ferramentas:
 - Docker
 - IDE da sua preferência
 
-Como rodar o projeto:
+Executando o projeto:
+
 Com as ferramentas instaladas você deve criar 3 recursos antes de levantar a aplicação em ambiente local
 
 Com docker, crie uma network: *docker network create nginx_nw*
