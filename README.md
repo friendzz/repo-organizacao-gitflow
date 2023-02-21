@@ -35,6 +35,7 @@ Feito os pré requisitos basta rodar o comando: docker compose up
 ```cmd
 C:\Users\luis\favela_inc\VisionBack>docker compose up
 ```
+Resultado esperado: 
 ```cmd
 [+] Running 2/2
  - Container nginx             Created                                                                                                 0.1s 
